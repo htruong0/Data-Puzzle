@@ -1,3 +1,11 @@
+"""
+Here's is the message from Earth: 'I remember that if you sort the countries
+(or dependencies) [Guinea, Iran, Trinidad And Tobago, Honduras, Lebanon, Ethiopia,
+Niger, Afghanistan, India, American Samoa, Cuba, Gabon, Nicaragua, Channel Islands,
+Martinique] by density of population (DESCENDING) and then only look at the first
+letter of each country, you'll get my message back!! Can you help me please?'
+"""
+
 import pandas as pd
 
 countries = ['Guinea', 'Iran', 'Trinidad and Tobago', 'Honduras', 'Lebanon',
